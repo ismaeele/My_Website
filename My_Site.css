@@ -1,0 +1,73 @@
+body {
+	background-color: orange;
+
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.The_Logo {
+	background-color: orange;
+	text-align:center;
+
+}
+h3 {
+	background-color: red; font-family: Arial;
+
+}
+html, body { 
+	height:auto;
+	
+
+}
+    
+.sidebar {
+  	height: auto;
+  	max-width: 100%;
+  	display: flex;
+
+}
+
+.FirstHalf {
+	font-size: 30px;
+	max-width:100%; 
+	height: auto;
+
+}
+
+.Istanbul_2{
+	font-size: 30px;
+	max-width:100%; 
+	height: auto;
+	display: flex;
+
+}
+
+.SecondHalf {
+	font-size: 30px;
+	max-width:100%; 
+	height: auto;
+	display: flex;
+
+}
+
+.ThirdHalf {
+	font-size: 30px;
+	max-width:100%; 
+	height: auto;
+	display: flex;
+
+}
+
+.Bottom {
+	font-size: 60px;
+	text-align:center;
+	max-width:100%; 
+	height: auto;
+	display: flex;
+	
+}
+.img {
+	max-width:100%; 
+	height: auto;
+}
